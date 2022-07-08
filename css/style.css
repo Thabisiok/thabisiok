@@ -1,0 +1,32 @@
+
+h1{
+   color:orange;
+   font-size: "20PX"
+  color:grey;
+    font-size: 3em;
+    border: 3px crimson solid;
+    padding: 15px;
+    }
+    .myclass{
+      background-color: orange;
+    }
+
+    img{
+      border: 10px orange solid;
+      width:200px;
+      height:200px;
+    }
+  p{color:orange}
+  }
+ body{back-ground:pink;
+ }
+ body {
+   background-color: purple
+  
+}
+li:hover{
+   font-size:40px;
+ }
+ li{
+   transition:0.3s ease;
+ }
